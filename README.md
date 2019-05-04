@@ -11,4 +11,4 @@ Tweaking these vectors is key to good outcome and/or performance.
 In this example the goal of the algorithm was to guess a string of characters. This is just to demonstrate the function of the genetic algorithm.
 If you want to use this algorithm for your own use you can simply substitute the individual's gene by your own object. Do not forget to change the way fitness is calculated and how mutation is implemented.
 
-### Screenshot ###
+## Screenshot ##
