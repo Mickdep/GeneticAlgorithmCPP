@@ -12,3 +12,4 @@ In this example the goal of the algorithm was to guess a string of characters. T
 If you want to use this algorithm for your own use you can simply substitute the individual's gene by your own object. Do not forget to change the way fitness is calculated and how mutation is implemented.
 
 ## Screenshot ##
+![Running the genetic algorithm](Screenshot.png)
